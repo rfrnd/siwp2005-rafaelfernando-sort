@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: siwp2005-rafaelfernando-sort
+Version: 0.1.2
+Summary: A collection of sorting algorithms
+Home-page: https://github.com/rfrnd/siwp2005-rafaelfernando-sort
+Author: Rafael Fernando
+Author-email: rafaelfernando.ukkw@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 ```markdown
 # siwp2005-rafaelfernando-sort
 
@@ -63,7 +77,7 @@ Proyek ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) unt
 
 ## Tautan
 
-- [PyPI](https://test.pypi.org/project/siwp2005-rafaelfernando-sort/0.1.2/)
+- [PyPI](https://test.pypi.org/project/siwp2005-rafaelfernando-sort/0.1.1/)
 ```
 
 Perbaikan ini mencakup penjelasan yang lebih jelas untuk setiap fitur, mencantumkan command untuk menjalankan tes pada setiap algoritma pengurutan, dan memastikan format Markdown sesuai dengan standar yang baik. Juga ditambahkan informasi tentang kontribusi dan tautan ke riwayat perubahan dan lisensi.
