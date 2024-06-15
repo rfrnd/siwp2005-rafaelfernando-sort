@@ -1,5 +1,5 @@
 ```markdown
-# siwp2005-rafaelfernando-sort
+## siwp2005-rafaelfernando-sort
 
 `siwp2005-rafaelfernando-sort` adalah sebuah pustaka Python yang menyediakan implementasi dari berbagai algoritma pengurutan dasar, termasuk Bubble Sort, Insertion Sort, dan Quick Sort.
 
